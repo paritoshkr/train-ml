@@ -11,7 +11,7 @@
 
 - `submission/*` : Contains Jupyter notebooks submitted by the team members
 
-- `Numpy_Exercise-1.ipynb` : Jupyter Notebook containing the problem statements related to creating Numpy arrays
+- `Numpy_Exercise_1.ipynb` : Jupyter Notebook containing the problem statements related to creating Numpy arrays
 
 -----
 
@@ -34,7 +34,7 @@ $ git clone https://github.com/YOUR-USERNAME/train-ml
 ### Making a Pull Request (PR)
 
 Before making a PR, make sure that you:
-- Rename your Jupyter notebook to **yourUSERNAME-yyyy-mm-dd** ("yyyy-mm-dd" is the date you are making PR).
+- Rename your Jupyter notebook to **yourGithubUSERNAME-yyyy-mm-dd** ("yyyy-mm-dd" is the date you are making PR).
 
 - Save your notebook in the `submission/` directory.
 
